@@ -38,7 +38,3 @@ This project follows **Playwright** with the **Page Object Model (POM)** and inc
 ---
 
 > 💡 Use `npx playwright test` to run the full test suite.
-
-Want to test individual scenarios? Run:
-```bash
-npx playwright test tests/userFlow.spec.ts
